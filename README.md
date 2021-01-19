@@ -1,2 +1,2 @@
 # ms-course
-Spring Cloud Netflix course practice repository
+A practice repository for a Spring Cloud Netflix course
