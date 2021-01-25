@@ -1,4 +1,4 @@
-package com.rafaelgude.hruser.config;
+package com.rafaelgude.hruser.configs;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
